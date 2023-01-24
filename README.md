@@ -114,7 +114,7 @@ $ sudo systemctl restart haproxy
 * Next edit the `/etc/hosts` file.
 
 ```
-$ sudo /etc/hosts
+$ sudo nano /etc/hosts
 ```
 
 * Define the hostnames and IP addresses of the haproxy main server and the webservers.
