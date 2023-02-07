@@ -3,7 +3,7 @@
 
 # SOLUTION GETTING THE CONFIGURATION ON YOUR NGINX WEB_SERVER
 
-> This tutorial will teacher you how to install configure your Load_balancer using HAproxy on Ubuntu 20.04 running on a Nginx web_server.
+> This tutorial will teach you how to install configure your Load_balancer using HAproxy on Ubuntu 20.04 running on a Nginx web_server.
 
 * Make sure you `cd 92429-lb-01 server` example `ssh ubuntu@ip_address`.
 
